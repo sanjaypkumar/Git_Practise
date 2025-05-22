@@ -1,0 +1,21 @@
+create folder
+open git bash and created the file
+
+git init
+git config --global user.name <username>
+git config --global user.email <email>
+git config --global user.name
+git config --global user.email
+
+==> working directory is the created folder
+	we want to perform 
+	git add <filename>
+==> after git add the created file will track by the git
+	git status
+==> check the file is committed or not
+	git commit -m "sample file"
+
+commit the file to local repository
+
+git log ==> to check the total number commits we had did in the local repo
+
