@@ -19,3 +19,31 @@ commit the file to local repository
 
 git log ==> to check the total number commits we had did in the local repo
 
+===================Day -2=============================
+
+git pull--->we can see updates in my working
+directory with this command
+
+git pull = git fetch + git merge
+
+we should give two commands to update remote to working directory git
+fetch after git merge
+
+git fetch---updated the code in local repo (remote repo to local repo)
+
+git merge ---- updated the code local repo to working directorty
+
+=============================
+git pull = git fetch + git merge
+
+we should give two commands to update remote to working directory git
+fetch after git merge
+git pull --> updated the code from remote to working directory
+git fetch --> updated the code in local repo (remote repo to local repo)
+git merge --> updated the code local repo to working directory
+
+nothing but we can fork it from one GitHub repo to other GitHub repo I
+
+==============GitHub Fork=============================
+we are copying the repo from one account repo to other account repo
+it should be in public to fork it
