@@ -47,3 +47,24 @@ nothing but we can fork it from one GitHub repo to other GitHub repo I
 ==============GitHub Fork=============================
 we are copying the repo from one account repo to other account repo
 it should be in public to fork it
+
+
+==========day - 3 =====================================
+
+
+git stash push ---.
+
+-- push into bin
+
+git stash list ------ list
+
+git stash apply ----- back to working location
+
+-- master
+--- master
+
+sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard, timeo=600,retrans=2, noresvport fs-007ec4f11ab706e6c.efs.us-east-1.amazonaws.com:/ efs
+
+-git merge dev
+-git febase dev master
+
